@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+a {
+    padding: 10px;
+    background: lightblue;
+    text-decoration: none;
+}
